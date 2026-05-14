@@ -13,3 +13,9 @@ Clean interface design also makes navigation easier for new users entering the e
 Well-structured interfaces reduce confusion during swaps, minting, and wallet interactions.
 Applications with responsive layouts tend to create a smoother overall experience.
 Consistent UI patterns across platforms also improve long-term usability.
+
+## User Accessibility
+
+Accessible applications make onboarding easier for users with different levels of experience.
+Simple interaction flows reduce unnecessary complexity during daily usage.
+Platforms with faster confirmation times generally provide a more reliable experience.
