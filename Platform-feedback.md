@@ -31,3 +31,9 @@ Reliable transaction processing also supports more consistent long-term activity
 Exploring multiple applications provides a broader understanding of the ecosystem structure.
 Clear categorization and discoverability help users move between tools more efficiently.
 Well-connected platforms also improve overall interaction continuity.
+
+## Long-Term Impression
+
+Consistent usability and low fees create a more sustainable experience for ongoing participation.
+Applications that remain stable over time encourage repeated engagement from users.
+A balanced ecosystem experience often depends on both performance and accessibility together.
