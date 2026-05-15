@@ -19,3 +19,9 @@ Consistent UI patterns across platforms also improve long-term usability.
 Accessible applications make onboarding easier for users with different levels of experience.
 Simple interaction flows reduce unnecessary complexity during daily usage.
 Platforms with faster confirmation times generally provide a more reliable experience.
+
+## Transaction Experience
+
+Fast confirmation times improve confidence during repeated interactions across different applications.
+Low-cost transactions allow users to test features without significant financial risk.
+Reliable transaction processing also supports more consistent long-term activity.
