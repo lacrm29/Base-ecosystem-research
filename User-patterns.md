@@ -13,3 +13,9 @@ Consistent participation also improves familiarity with ecosystem tools and work
 Long-term engagement patterns are generally more sustainable than temporary bursts of activity.
 Gradual ecosystem exploration often leads to more consistent interaction behavior.
 Stable activity trends also provide clearer insight into actual user participation.
+
+## Interaction Diversity
+
+Using multiple applications creates a broader and more balanced interaction profile.
+Different activity types such as swaps, NFTs, and protocol usage improve ecosystem exposure.
+Diverse interaction behavior also reflects more realistic participation patterns over time.
