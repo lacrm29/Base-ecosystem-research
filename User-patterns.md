@@ -19,3 +19,9 @@ Stable activity trends also provide clearer insight into actual user participati
 Using multiple applications creates a broader and more balanced interaction profile.
 Different activity types such as swaps, NFTs, and protocol usage improve ecosystem exposure.
 Diverse interaction behavior also reflects more realistic participation patterns over time.
+
+## Activity Distribution
+
+Balanced activity across different days creates a more natural interaction timeline.
+Users who maintain steady participation patterns often appear more engaged with the ecosystem.
+Distributing activity gradually also reduces irregular transaction behavior.
