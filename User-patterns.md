@@ -31,3 +31,9 @@ Distributing activity gradually also reduces irregular transaction behavior.
 Interacting with multiple ecosystem tools improves overall participation quality.
 Users who explore different applications tend to develop broader usage patterns over time.
 Consistent engagement across platforms also increases familiarity with network features.
+
+## Sustainable Usage
+
+Sustainable interaction habits are easier to maintain over longer periods of time.
+Smaller and more controlled activity patterns often appear more realistic than aggressive usage.
+Long-term consistency remains one of the strongest indicators of ongoing ecosystem participation.
