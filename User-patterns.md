@@ -43,3 +43,9 @@ Long-term consistency remains one of the strongest indicators of ongoing ecosyst
 Frequent but moderate interaction patterns often appear more sustainable over long periods.
 Users who maintain balanced activity generally create a more stable ecosystem presence.
 Controlled engagement also reduces irregular spikes in transaction behavior.
+
+## Engagement Quality
+
+Meaningful interaction across different applications improves overall participation depth.
+Users who explore multiple tools tend to develop broader ecosystem familiarity.
+Consistent engagement quality is often more valuable than short-term activity volume.
