@@ -49,3 +49,9 @@ Controlled engagement also reduces irregular spikes in transaction behavior.
 Meaningful interaction across different applications improves overall participation depth.
 Users who explore multiple tools tend to develop broader ecosystem familiarity.
 Consistent engagement quality is often more valuable than short-term activity volume.
+
+## Participation Trends
+
+Long-term participation trends provide clearer insight into actual ecosystem usage patterns.
+Gradual activity growth appears more natural than sudden increases in interaction volume.
+Stable participation behavior also supports stronger long-term network engagement.
