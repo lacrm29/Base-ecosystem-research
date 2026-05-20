@@ -37,3 +37,9 @@ Consistent engagement across platforms also increases familiarity with network f
 Sustainable interaction habits are easier to maintain over longer periods of time.
 Smaller and more controlled activity patterns often appear more realistic than aggressive usage.
 Long-term consistency remains one of the strongest indicators of ongoing ecosystem participation.
+
+## Interaction Frequency
+
+Frequent but moderate interaction patterns often appear more sustainable over long periods.
+Users who maintain balanced activity generally create a more stable ecosystem presence.
+Controlled engagement also reduces irregular spikes in transaction behavior.
