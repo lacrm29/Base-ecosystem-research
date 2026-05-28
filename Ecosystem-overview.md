@@ -21,3 +21,9 @@ Consistent usability also supports long-term engagement across different applica
 The ecosystem shows continuous growth through expanding application diversity and user activity.
 Different categories such as NFTs, swaps, and social tools contribute to a broader interaction environment.
 Long-term development may further improve ecosystem stability and participation patterns.
+
+## User Participation
+
+Growing participation across different applications contributes to a more active ecosystem environment.
+Users interacting with multiple tools create broader onchain activity patterns over time.
+Consistent participation also supports long-term ecosystem sustainability and development.
