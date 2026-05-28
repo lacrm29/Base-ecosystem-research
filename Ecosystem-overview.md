@@ -27,3 +27,9 @@ Long-term development may further improve ecosystem stability and participation 
 Growing participation across different applications contributes to a more active ecosystem environment.
 Users interacting with multiple tools create broader onchain activity patterns over time.
 Consistent participation also supports long-term ecosystem sustainability and development.
+
+## Application Diversity
+
+The ecosystem benefits from a wide range of decentralized applications and interaction types.
+Different tools such as swaps, NFT platforms, and social applications improve overall network variety.
+Application diversity also encourages users to explore new forms of engagement continuously.
