@@ -13,3 +13,9 @@ Regular protocol usage also improves familiarity with onchain workflows and tran
 Protocols with simple interfaces generally encourage more frequent participation from users.
 Clear transaction flows reduce confusion and make repeated interactions easier to manage.
 Ease of use remains an important factor in long-term protocol adoption.
+
+## Ecosystem Contribution
+
+Protocols play a significant role in expanding overall ecosystem functionality and activity.
+Different protocol categories provide users with multiple ways to interact with the network.
+A diverse protocol landscape supports broader participation and experimentation over time.
