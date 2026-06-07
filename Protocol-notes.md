@@ -19,3 +19,9 @@ Ease of use remains an important factor in long-term protocol adoption.
 Protocols play a significant role in expanding overall ecosystem functionality and activity.
 Different protocol categories provide users with multiple ways to interact with the network.
 A diverse protocol landscape supports broader participation and experimentation over time.
+
+## Security Considerations
+
+Protocol interactions require users to review permissions and transaction details carefully.
+Understanding approval mechanisms helps reduce unnecessary exposure to smart contract risks.
+Regular permission reviews can improve overall account security over time.
