@@ -26,8 +26,15 @@ Reliable network operation plays a critical role in maintaining user confidence 
 Stable performance reduces unexpected transaction issues and improves overall usability.
 Users are more likely to remain active when network conditions remain predictable over time.
 
+## Scalability Considerations
+
+As ecosystem participation grows, efficient network infrastructure becomes increasingly important.
+Scalable systems help maintain performance levels during periods of higher activity.
+Strong scalability also supports future ecosystem expansion without significantly impacting user experience.
+
 ## Final Assessment
 
 Network efficiency remains one of the most important factors influencing ecosystem participation.
 Fast transactions, low costs, and reliable performance contribute to a stronger user experience overall.
 Maintaining these characteristics will continue to support long-term growth and adoption.
+
