@@ -7,3 +7,9 @@ Tracking general activity trends and ecosystem participation.
 Monitoring activity metrics helps identify long-term participation trends across the ecosystem.
 Regular tracking provides a clearer picture of interaction frequency and usage patterns.
 Consistent measurement also supports better evaluation of ecosystem engagement over time.
+
+## Participation Indicators
+
+Transaction count, application usage, and interaction diversity can serve as useful participation indicators.
+These metrics help illustrate how users engage with different ecosystem components.
+Combining multiple indicators provides a broader view of overall activity levels.
