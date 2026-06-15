@@ -19,3 +19,9 @@ Combining multiple indicators provides a broader view of overall activity levels
 Activity trends become more meaningful when observed across longer periods rather than isolated events.
 Gradual changes often provide stronger insights than short-term spikes in participation.
 Long-term evaluation helps identify sustainable engagement patterns within the ecosystem.
+
+## Activity Consistency
+
+Consistent activity metrics provide a stronger indication of long-term participation than isolated periods of high engagement.
+Regular interaction patterns help create a more accurate representation of ecosystem usage.
+Stable activity levels also make trend analysis more reliable over extended timeframes.
