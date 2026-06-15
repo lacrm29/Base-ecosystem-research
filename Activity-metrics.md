@@ -20,6 +20,12 @@ Activity trends become more meaningful when observed across longer periods rathe
 Gradual changes often provide stronger insights than short-term spikes in participation.
 Long-term evaluation helps identify sustainable engagement patterns within the ecosystem.
 
+## Comparative Metrics
+
+Comparing different activity indicators helps reveal how users interact across multiple areas of the ecosystem.
+Transaction volume alone may not fully represent participation quality or engagement depth.
+A combination of metrics often provides a more balanced perspective on overall activity.
+
 ## Activity Consistency
 
 Consistent activity metrics provide a stronger indication of long-term participation than isolated periods of high engagement.
