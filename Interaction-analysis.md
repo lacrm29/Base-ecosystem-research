@@ -13,3 +13,9 @@ A diverse interaction history often reflects more complete ecosystem engagement.
 User interaction patterns often evolve as familiarity with ecosystem tools increases.
 Initial activity may focus on basic transactions before expanding to more advanced applications.
 This progression helps create a deeper and more sustainable participation profile.
+
+## Engagement Depth
+
+Repeated interaction with multiple applications can provide greater insight into ecosystem behavior.
+Users who explore different tools often develop stronger familiarity with network functionality.
+Broader engagement also contributes to a more comprehensive interaction history.
