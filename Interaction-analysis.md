@@ -7,3 +7,9 @@ Analysis of interaction patterns across different applications on Base.
 Users engage with the ecosystem through a variety of actions including transactions, application usage, and NFT activity.
 Different interaction types contribute to a broader understanding of network participation.
 A diverse interaction history often reflects more complete ecosystem engagement.
+
+## User Journey
+
+User interaction patterns often evolve as familiarity with ecosystem tools increases.
+Initial activity may focus on basic transactions before expanding to more advanced applications.
+This progression helps create a deeper and more sustainable participation profile.
