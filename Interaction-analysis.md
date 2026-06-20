@@ -25,3 +25,9 @@ Broader engagement also contributes to a more comprehensive interaction history.
 Consistent interaction behavior provides a clearer representation of long-term ecosystem participation.
 Users who maintain regular engagement often develop broader familiarity with available tools and services.
 Stable activity patterns also improve the quality of overall interaction analysis.
+
+## Ecosystem Exploration
+
+Exploring different applications encourages a wider range of interaction experiences.
+Users who engage with multiple categories of tools often gain a deeper understanding of ecosystem functionality.
+Broader exploration also contributes to more diverse participation patterns over time.
