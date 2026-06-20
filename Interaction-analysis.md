@@ -19,3 +19,9 @@ This progression helps create a deeper and more sustainable participation profil
 Repeated interaction with multiple applications can provide greater insight into ecosystem behavior.
 Users who explore different tools often develop stronger familiarity with network functionality.
 Broader engagement also contributes to a more comprehensive interaction history.
+
+## Behavioral Consistency
+
+Consistent interaction behavior provides a clearer representation of long-term ecosystem participation.
+Users who maintain regular engagement often develop broader familiarity with available tools and services.
+Stable activity patterns also improve the quality of overall interaction analysis.
